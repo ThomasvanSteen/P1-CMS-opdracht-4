@@ -7,5 +7,30 @@ Author: Thomas van Steen
 */
 
 body {
-    margin: 0px;
-}
+    background-color: lightblue;
+  }
+  h1 {
+      text-align: center;
+      color:blue
+  }
+  h2 {
+      text-align: center;
+      color:blueviolet
+  }
+  p {
+      text-align: center;
+      color:darkblue
+  }
+  img {
+      border-style: solid;
+      border-color: darkblue;
+      border-width: 5px 
+    
+      
+
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; }
